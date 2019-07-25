@@ -15,7 +15,7 @@
           <element id="library" level="project" name="Maven: com.github.stuxuhai:jpinyin:1.1.8" />
           <element id="library" level="project" name="Maven: org.scannotation:scannotation:1.0.3" />
           <element id="library" level="project" name="Maven: javassist:javassist:3.12.1.GA" />
-          <element id="library" level="project" name="Maven: mysql:mysql-connector-java:5.1.20" />
+          <element id="library" level="project" name="Maven: mysql:mysql-connector-java:5.1.4" />
           <element id="library" level="project" name="Maven: com.jfinal:jfinal:2.2" />
           <element id="library" level="project" name="Maven: cglib:cglib-nodep:3.1" />
           <element id="library" level="project" name="Maven: com.jfinal:cos:26Dec2008" />

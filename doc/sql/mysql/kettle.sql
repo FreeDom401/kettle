@@ -1552,8 +1552,7 @@ inner join r_job_attribute ja1 on ja1.id_job=ja.id_job and ja1.nr=ja.nr and ja1.
 inner join r_job_attribute ja2 on ja2.id_job=ja.id_job and ja2.nr=ja.nr and ja2.code='PARAM_DEFAULT'
 inner join r_job j on j.job_status=2 and j.id_job=ja.id_job
 left join job_params p on p.id_job=ja.id_job and ja.value_str=p.ocode
-where ja.code = 'PARAM_KEY'
-order by ja.nr asc
+where ja.code = 'PARAM_KEY'order by ja.nr asc
 /*
 参数设置
 */ ;

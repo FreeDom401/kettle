@@ -6,6 +6,7 @@
  */
 package com.eova.config;
 
+import java.sql.Connection;
 import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -75,7 +76,6 @@ import com.jfinal.plugin.activerecord.dialect.PostgreSqlDialect;
 import com.jfinal.plugin.druid.DruidPlugin;
 import com.jfinal.plugin.druid.DruidStatViewHandler;
 import com.jfinal.plugin.ehcache.EhCachePlugin;
-import com.mysql.jdbc.Connection;
 import com.oss.controller.CommonController;
 import com.oss.controller.TimingController;
 import com.oss.model.MetlDatabase;
