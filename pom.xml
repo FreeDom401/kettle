@@ -16,7 +16,7 @@
         <jdk.version>1.7</jdk.version>
         <junit.version>4.11</junit.version>
 
-        <mysql.version>5.1.4</mysql.version>
+        <mysql.version>8.0.16</mysql.version>
         <oracle.version>14</oracle.version>
 
         <druid.version>1.0.12</druid.version>
