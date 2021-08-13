@@ -23,7 +23,7 @@
         <ehcache.version>2.5.2</ehcache.version>
 
         <jetty.version>8.1.8</jetty.version>
-        <jfinal.version>2.2</jfinal.version>
+        <jfinal.version>4.9.11</jfinal.version>
         <cglib.version>3.1</cglib.version>
         
         <beetl.version>2.2.5</beetl.version>
