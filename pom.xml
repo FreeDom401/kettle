@@ -29,7 +29,7 @@
         <beetl.version>2.2.5</beetl.version>
 
         <cos.version>26Dec2008</cos.version>
-        <fastjson.version>1.2.0</fastjson.version>
+        <fastjson.version>1.2.83</fastjson.version>
         <commons-codec.version>1.7</commons-codec.version>
         <log4j.version>1.2.16</log4j.version>
         <slf4j.version>1.6.1</slf4j.version>
